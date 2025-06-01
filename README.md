@@ -1,1 +1,1 @@
-![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/icon-tableau.png)
+![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/icon-tableau.png)([target_url](https://public.tableau.com/app/profile/yixuan.liu2688/viz/PlayStationPlayerAnalytics/Dashboard2))
