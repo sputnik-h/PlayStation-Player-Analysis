@@ -18,7 +18,7 @@ prices - price history for each game in 5 different currencies, starting from 22
 purchased_games - a list of games purchased by each user
 
 Part 1
-[![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/demographics.png)]
+![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/demographics.png)
 This Tableau dashboard titled "PlayStation Player Demographics" visualizes global player behavior and engagement across three key dimensions:
 
 1. PlayStation Player Geographical Distribution (Top Map)
