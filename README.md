@@ -181,3 +181,9 @@ The clustering analysis reveals a spectrum of player types—from casual partici
 - 🎯 Player segmentation based on clustering results  
 - 📈 Identify long-term engagement patterns  
 - 🔍 Drill down to each genre and rarity level  
+
+---
+
+## 📝 Credits
+
+This project was made possible using publicly available data provided by the [Gaming Profiles 2025 (Steam, PlayStation, Xbox)](https://www.kaggle.com/datasets/artyomkruglov/gaming-profiles-2025-steam-playstation-xbox)).  
