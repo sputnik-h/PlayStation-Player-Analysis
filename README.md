@@ -132,16 +132,6 @@ The clustering analysis reveals a spectrum of player types—from casual partici
 
 ---
 
-### 🧠 Insights Summary
-
-This clustering reveals a spectrum from **casual players to hardcore completionists**, useful for personalization and engagement strategy.
-
-- **Clusters 0–2:** Large, casual base. Target for onboarding & retention.  
-- **Clusters 4–5:** Mid-core players. Ideal for social features or challenges.  
-- **Clusters 6, 1, 3:** Power users. Consider elite rewards or community roles.
-
----
-
 ## 📈 Visualization Dashboards
 
 ### 🎯 Part 1: Player Demographics  
