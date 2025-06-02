@@ -1,11 +1,12 @@
 ## 📊 Summary
 
 This project analyzes **PlayStation player data (2008–2025)** using **Tableau dashboards** and **Python notebooks**. Specifically, it explores:
-[Click here to view on Tableau](https://public.tableau.com/app/profile/yixuan.liu2688/viz/PlayStationPlayerAnalytics/PlayerDemographics)
 
 - Basic demographics of players  
 - Retention patterns by cohort  
-- Player engagement levels based on trophy data  
+- Player engagement levels based on trophy data
+  
+[Click here to view on Tableau](https://public.tableau.com/app/profile/yixuan.liu2688/viz/PlayStationPlayerAnalytics/PlayerDemographics)
 
 The central question for PlayStation Platform Analytics is:  
 **“Who is playing what, and how much are they playing?”**  
