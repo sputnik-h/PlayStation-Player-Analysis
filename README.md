@@ -4,7 +4,7 @@
 
 ## Summary
 
-This project analyzes and visualizes PlayStation Player data starting from 2008. 
+This project analyzes PlayStation Player data starting from 2008 with Tableau dashboards and Python notebook. More specifcally, the project looks at the basic demographics of the players, track their retention vased on their cohort and how engaged a playe they are, and answering the central question for PlayStation Platform Analytics, Who is playing what by how much, by using player trophy count as an proxy as their engagement measures.
 
 ---
 
@@ -15,11 +15,12 @@ This project analyzes and visualizes PlayStation Player data starting from 2008.
 - **history** – user gaming activity for 2008–2025 (46k userID)  
 - **players** – a list of PlayStation users (356k userID)  
 - **prices** – price history for each game in 5 different currencies, starting from 22-02-2025 (updated every 2 days)  
-- **purchased_games** – a list of games purchased by each user  
+- **purchased_games** – a list of games purchased by each user
+- **player_achievement_cluster_details** – genreated with Python transformation and clustering, detailing player's trophy's count by genre and rarity, along with cluster assigned by K-means Clustering algorithm
 
 ---
-
-## Part 1  
+## Visualization Part
+### Part 1  
 ![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/demographics.png)  
 This Tableau dashboard titled **"PlayStation Player Demographics"** visualizes global player behavior and engagement across three key dimensions.
 
@@ -35,12 +36,12 @@ This Tableau dashboard titled **"PlayStation Player Demographics"** visualizes g
 4. **Top 10 Countries by Median Number of Achievements Completed** (Bottom Right)  
    Highlights countries where players are most engaged in completing in-game achievements.
 
-### Overall Takeaway  
+#### Overall Takeaway  
 This dashboard enables interactive exploration of where the most engaged, invested, and active PlayStation players are, based on:
 
 ---
 
-## Part 2  
+### Part 2  
 ![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/retention.png)  
 This Tableau dashboard titled **"Retention Analysis"** visualizes PlayStation player engagement and retention trends across different time periods and player cohorts.
 
@@ -58,6 +59,6 @@ This Tableau dashboard titled **"Retention Analysis"** visualizes PlayStation pl
 
 ---
 
-## Part 3  
+### Part 3  
 ![Alt text](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/ind_activity.png)  
 This Tableau dashboard titled **"Individual Player Activity"** visualizes long-term engagement patterns of PlayStation users on a per-player basis.
