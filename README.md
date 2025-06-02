@@ -186,4 +186,4 @@ The clustering analysis reveals a spectrum of player types—from casual partici
 
 ## 📝 Credits
 
-This project was made possible using publicly available data provided by the [Gaming Profiles 2025 (Steam, PlayStation, Xbox)](https://www.kaggle.com/datasets/artyomkruglov/gaming-profiles-2025-steam-playstation-xbox)).  
+This project was made possible using publicly available data provided by the [Gaming Profiles 2025 (Steam, PlayStation, Xbox)](https://www.kaggle.com/datasets/artyomkruglov/gaming-profiles-2025-steam-playstation-xbox).  
