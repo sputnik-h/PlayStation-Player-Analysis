@@ -62,12 +62,12 @@ Result: a wide-format player-feature matrix for clustering.
 
 #### 3. K-means Clustering  
 Used the **elbow method** to determine the optimal number of clusters (k = 7).  
-![Elbow Plot](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/elbow.png)
+![Elbow Plot](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/elbowmethodresults.png)
 
 #### 4. Cluster Result Summary  
 Cluster centroids (average trophy count per genre per cluster):  
 
-![Cluster Plot](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/clustering_plot.png)
+![Cluster Plot](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/clusteringplot.png)
 
 ---
 
