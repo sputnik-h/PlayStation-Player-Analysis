@@ -1,6 +1,7 @@
 ## 📊 Summary
 
 This project analyzes **PlayStation player data (2008–2025)** using **Tableau dashboards** and **Python notebooks**. Specifically, it explores:
+[Click here to view on Tableau](https://public.tableau.com/app/profile/yixuan.liu2688/viz/PlayStationPlayerAnalytics/PlayerDemographics)
 
 - Basic demographics of players  
 - Retention patterns by cohort  
