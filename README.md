@@ -69,6 +69,18 @@ Cluster centroids (average trophy count per genre per cluster):
 
 ![Cluster Plot](https://github.com/sputnik-h/Tableau-PlayStation-Player-Analysis/blob/main/images/clusteringplot.png)
 
+The table below summarizes the average number of trophies earned by players in each cluster, broken down by genre:
+
+| Cluster | Action & Combat | Arcade & Classics | Card, Board & Casino | Music, Party & Social | Online & Multiplayer | Puzzle & Educational | Sports & Racing | Strategy & Simulation | Thematic & Narrative |
+|---------|------------------|--------------------|------------------------|------------------------|------------------------|------------------------|------------------|------------------------|------------------------|
+| 0       | 726.51           | 104.23             | 2.82                   | 16.21                  | 4.23                   | 12.16                  | 168.39           | 310.09                 | 265.20                 |
+| 1       | 16866.60         | 6522.00            | 140.20                 | 529.00                 | 48.80                  | 5312.20                | 2608.60          | 3722.20                | 4423.40                |
+| 2       | 5197.61          | 1269.55            | 31.02                  | 304.95                 | 22.32                  | 361.11                 | 1086.70          | 2527.15                | 2141.77                |
+| 3       | 15296.00         | 11197.00           | 536.00                 | 1684.00                | 56.00                  | 10364.00               | 1431.00          | 2746.00                | 16568.00               |
+| 4       | 2509.60          | 437.86             | 15.65                  | 85.11                  | 8.68                   | 76.56                  | 481.88           | 1298.16                | 1003.05                |
+| 5       | 3222.98          | 448.51             | 9.33                   | 88.68                  | 80.51                  | 83.10                  | 535.11           | 1318.36                | 1013.03                |
+| 6       | 11032.76         | 4691.59            | 72.24                  | 579.12                 | 59.06                  | 1517.24                | 1920.53          | 4354.59                | 4957.12                |
+
 ---
 
 # 🎮 Cluster Analysis of Player Trophies by Genre
